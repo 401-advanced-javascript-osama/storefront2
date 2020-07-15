@@ -1,7 +1,7 @@
 # Store Front 
 
 
-## Author: Osama Mousa - Yasmin Aladailah
+## Author: Yasmin Aladailah - Osama Mousa 
 
 ## Links 
   [LAB-36 PR](https://github.com/401-advanced-javascript-osama/storefront2/pull/1)
@@ -19,4 +19,8 @@
   - Index.js
 
 ## UML  
-<!-- ![UML](./assets/uml.jpeg) -->
+![UML](./uml/1.jpeg)
+![UML](./uml/2.jpeg)
+![UML](./uml/3.jpeg)
+![UML](./uml/4.jpeg)
+![UML](./uml/5.jpeg)
