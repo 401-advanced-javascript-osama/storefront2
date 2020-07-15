@@ -11,7 +11,7 @@ function Products (props){
                     props.products.products.map(product =>{
                         return (
         <Card style={{ width: '18rem' }}className = {`cards ${product.name}`} key = {product.name}>
-            <Card.Img variant="top" src={product.img} />
+            <Card.Img className='imagepro' variant="top" src={product.img} />
               <Card.Body>
                 <Card.Title>{product.name}</Card.Title>
                 <Card.Text>
