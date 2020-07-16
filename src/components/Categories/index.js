@@ -4,6 +4,7 @@ import {active} from '../../store/reducers/products';
 import './categories.scss';
 
 function Categories (props){
+    console.log('props cart', props);
     return (
         <section>
             <h3> Browes Our Categories</h3>

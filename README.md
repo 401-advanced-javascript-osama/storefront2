@@ -4,7 +4,7 @@
 ## Author: Yasmin Aladailah - Osama Mousa 
 
 ## Links 
-  [LAB-36 PR](https://github.com/401-advanced-javascript-osama/storefront2/pull/1)
+  [LAB-36 PR](https://github.com/401-advanced-javascript-osama/storefront2/pull/5)
 
 ## How to initialize the application
     `npm run start`
@@ -19,8 +19,4 @@
   - Index.js
 
 ## UML  
-![UML](./uml/1.jpeg)
-![UML](./uml/2.jpeg)
-![UML](./uml/3.jpeg)
-![UML](./uml/4.jpeg)
-![UML](./uml/5.jpeg)
+![UML](./uml/2.png)
